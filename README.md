@@ -3,34 +3,32 @@
 Awesome "Hello World"
 ====================
  
-### Introduction to HTML&CSS workshop for graphic designers
+### Introduction to HTML&CSS Workshop for Graphic Designers
  
 
 ## About
 
-During this workshop you will design and develop small responsive website while exploring the creative possibilities and technical limitation of HTML&CSS and designing for screen. The aim of the workshop is to introduce you to the fun of coding, giving you the taste of professional development tools and methods at the same time. 
-
-Often coding is perceived by designers as a complicated and very technical process. 
-This workshop's aim is to show you creative side of coding first, and introduce you to core tools and methods of designing and developing website in the fun non-conventional way. Starting from the very basics you'll then dive deep in a certain area of HTML&CSS depending on the creative idea of your design.
+During this workshop you will design and develop a small responsive website while exploring the creative possibilities and technical limitations of HTML&CSS and designing for screen. The aim of the workshop is to introduce you to the fun of coding, giving you a taste of professional development tools and methods at the same time. 
+Coding is often perceived by designers as a complicated and very technical process. The aim of this workshop is to show you the creative side of coding first, and introduce you to core tools and methods of designing and developing a website in a fun and non-conventional way. Starting from the very basics, you'll then dive deep into a particular area of HTML&CSS, depending on the creative idea of your design.
 
 ## What will you need? 
 
 * Pen and Sketchbook
 * Laptop
-* Chrome browser
-* Brackets code editor
+* Chrome Browser
+* Brackets Code Editor
 
 
 ## You will learn about 
 
 * Thumbnail sketching 
 * Using online coding tools
-* Using code editor
+* Using a code editor
 * Coding in HTML
 * Coding in CSS
 * Designing Typography for web
 * Designing for screen
-* Responsive design
+* Responsive Design
 * Using browser developer tools
 
 
