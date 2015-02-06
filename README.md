@@ -1,3 +1,5 @@
+![Awesome Hello World](assets/poster.png "Hello World poster")
+
 Awesome "Hello World"
 ====================
  
