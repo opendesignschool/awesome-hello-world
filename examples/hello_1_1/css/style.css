@@ -1,5 +1,15 @@
 @import url(http://fonts.googleapis.com/css?family=Rokkitt:700);
 
+* {
+  -webkit-transition: 1s all ease-in-out;
+  -moz-transition: 1s all ease-in-out;
+  -ms-transition: 1s all ease-in-out;
+  -o-transition: 1s all ease-in-out;
+  transition: 1s all ease-in-out;
+}
+
+
+
 body{
   text-align: center;
   background: 
