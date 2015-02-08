@@ -64,7 +64,7 @@ div.hr {
 }
 
 
-a {
+a, a :visited, a:hover {
   
   text-decoration:none;
   color:black;
