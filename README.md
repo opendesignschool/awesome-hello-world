@@ -31,6 +31,8 @@ Coding is often perceived by designers as a complicated and very technical proce
 * Responsive Design
 * Using browser developer tools
 
+Examples
+
 
 
 
